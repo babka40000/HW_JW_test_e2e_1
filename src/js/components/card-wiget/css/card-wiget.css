@@ -1,0 +1,25 @@
+.card-image {
+    width: 100px;
+    height: 60px;
+    filter: grayscale(100%);
+    opacity: 0.5;
+}
+
+.active-image {
+    filter: grayscale(0%);
+    opacity: 1;
+}
+
+.check-button {
+    background-color:limegreen;
+    color:white;
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius:5px;
+}
+
+.check-input {
+    width: 250px;
+    height: 25px;
+}
